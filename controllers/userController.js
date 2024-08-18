@@ -6,7 +6,7 @@ const sendEmail = require('../utils/sendEmail')
 const crypto = require('crypto')
 //Register a user
 exports.registerUser = catchAsyncErrors(async(req, res,next)=>{
-'kukumisuishuskkkpi'
+'kukumisuishuskkkkfkfkpi'
     const {name,email,password} = req.body
 
     const user = await User.create({

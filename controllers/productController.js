@@ -13,7 +13,7 @@ exports.createProduct = catchAsyncErrors(async (req,res,next)=>{
           success:true,
           product
        })
-})jojo kokooko
+})jojo kokookoko
 
 
 
